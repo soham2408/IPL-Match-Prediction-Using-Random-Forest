@@ -47,16 +47,20 @@ Files:
 - F1 Score
 - Confusion Matrix
 
-## Repository Structure
+## Model Performance
+
+| Metric | Score |
+|----------|---------|
+| Accuracy | 65.28% |
+| Precision | 81.8% |
+| Recall | 60.0% |
+| F1 Score | 69.4% |
+
+### Confusion Matrix
 
 ```text
-IPL-Match-Prediction-Using-Random-Forest
-│
-├── model-fitting.ipynb
-├── Final train data momentum.csv
-├── Final test data momentum.csv
-└── README.md
-```
+[[23, 8],
+ [24, 36]]
 
 ## Author
 
